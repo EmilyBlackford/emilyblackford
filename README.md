@@ -35,9 +35,11 @@ Technologies used for this app included Firebase Firestore, SwiftUI, and a MVVM 
 - Using AppStorage to maintain app and user states
 
 # 🌱 My learning journey
-I have used resources from a variety of online sources to help with my iOS development journey. I started with learning the basics from tutorials and community sources like StackOverflow, CodingWithChris CWC+ and Hacking With Swift+. Creating apps has helped me to learn as I build and create. I'm keen to understand and explore other technologies to help me develop more refined apps. I am now attending meetups to network and meet other developers for mentoring and develop my skills further.
+I have used resources from a variety of online sources to help with my iOS development journey. I started with learning the basics from tutorials and community sources like StackOverflow, CodingWithChris CWC+ and Hacking With Swift+. 
+Creating apps has helped me to learn and understand about the full app development process: creating ideas, designing, wire framing, hiring a designer, development, signing up for the Apple Developer Program and submitting apps for review and approval. Also monitoring for crashes and analytics and making continued improvements and fixes.
+I'm keen to understand and explore other technologies to help me develop more refined apps. I am now attending meetups and conferences to network and meet other developers for mentoring, collaborations and to develop my skills further.
 
-# ⚡ Fun fact
+# ⚡ Random fact
 In 2020, during lockdown, I started a micro vegan baking business to 'give me something to do' after having my first baby. I learnt a lot about multitasking that year!
 
 <!--
