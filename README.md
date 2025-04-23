@@ -12,7 +12,8 @@ My very first project, this iOS app allows users to find a name for their new ba
 
 Starting out with my first app was always going to be a challenging experience and I learnt a lot along the way including a lot of very obscure names that exist out there.
 
-Technologies I used included SwiftUI and SwiftData. 
+Technologies I used included SwiftUI and SwiftData for local data persistence, Firebase for analytics and crash reporting, plus a custom TypeScript API backend with AWS services.
+
 ### 🙇🏼‍♀️ What I learnt: 
 - Working with SwiftData
 - Organising Navigation to give a seamless journey through the app
