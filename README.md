@@ -41,7 +41,7 @@ Creating apps has helped me to learn and understand about the full app developme
 I'm keen to understand and explore other technologies to help me develop more refined apps. I am now attending meetups and conferences to network and meet other developers for mentoring, collaborations and to develop my skills further.
 
 # ⚡ Random fact
-In 2020, during lockdown, I started a micro vegan baking business to 'give me something to do' after having my first baby. I learnt a lot about multitasking that year!
+In 2020, during lockdown, I started a micro vegan baking business to 'give me something to do' after having my first baby. I learnt a lot about multitasking that year and that's why my company is called 'Buns & Zeros'.
 
 <!--
 **EmilyBlackford/emilyblackford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
