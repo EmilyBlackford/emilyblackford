@@ -21,7 +21,7 @@ Technologies I used included SwiftUI and SwiftData for local data persistence, F
 - Streamlining filtering of data to reduce clunky UI transitions in a card stack
 - Implementing analytics to understand why app was crashing when swiping too enthusiastically
 
-## 👦🏼 Babble Counter (coming to the App Store very soon)
+## 👦🏼 Babble Counter
 Sticking with the theme of children, my second app focuses on tracking young children's speech development (up to the age of 5 years).
 
 ![App mockups](https://github.com/user-attachments/assets/19436a43-7401-45c2-915e-91010d584ba5)
