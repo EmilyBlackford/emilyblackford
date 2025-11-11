@@ -1,6 +1,6 @@
 # Hi, I'm Emily 👋🏻
-In early 2024, I left a 10 year career in the NHS to pursue a new adventure in iOS app development. 
-I am a self-taught junior iOS developer with the enthusiasm to learn and understand more about all things Swift.
+In early 2024, I left an 11 year career in the NHS to pursue a new adventure in iOS app development. 
+I am a self-taught iOS developer with the enthusiasm to learn and understand more about all things Swift.
 
 📫 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emily-blackford-479257bb/).
 
