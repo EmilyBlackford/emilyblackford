@@ -1,47 +1,78 @@
 # Hi, I'm Emily 👋🏻
-In early 2024, I left a 10 year career in the NHS to pursue a new adventure in iOS app development. 
-I am a self-taught iOS developer with the enthusiasm to learn and understand more about all things Swift.
 
-📫 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emily-blackford-479257bb/).
+In early 2024, I left a 10-year career in the NHS to try something completely different—learning how to build iOS apps from scratch.
 
-# My apps 📱
-## 👶🏻 BabyNamer
-My very first project, this iOS app allows users to find a name for their new baby collaboratively with their partner/friends/family. The app contains a list of 10,000 of the most popular boy, girl and unisex names from the UK, US and Australia.
+I’m a self-taught iOS developer, and I’ve been learning by building real projects from start to finish—figuring things out as I go.
+
+📫 Feel free to reach out on LinkedIn:  
+https://linkedin.com/in/emily-blackford-ios  
+
+---
+
+## 📱 Projects
+
+These projects show how I’ve developed over time, rather than being completely separate pieces of work.
+
+### 👶🏻 BabyNamer  
+My first app—where I worked out how to get something from idea to the App Store.
+
+- Built a swipe-based app for matching baby names collaboratively  
+- Worked with large datasets and filtering to improve the experience  
+- Learned how to structure navigation without it feeling clunky  
+- First experience dealing with real users, crashes, and fixes  
+
+**Tech:** SwiftUI, SwiftData, Firebase, custom API  
 
 ![BabyNamer mockups](https://github.com/user-attachments/assets/0d3a79e4-c035-45e5-b325-ce9936eb25e6)
+---
 
-Starting out with my first app was always going to be a challenging experience and I learnt a lot along the way including a lot of very obscure names that exist out there.
+### 👦🏼 Babble Counter  
+This felt like a step forward in terms of structure and thinking about scalability.
 
-Technologies I used included SwiftUI and SwiftData for local data persistence, Firebase for analytics and crash reporting, plus a custom TypeScript API backend with AWS services.
+- Moved from local storage to a cloud-based setup (Firebase)  
+- Put more thought into architecture (MVVM) and data flow  
+- Built reusable UI components and improved state handling  
+- Added analytics and more structured testing  
 
-### 🙇🏼‍♀️ What I learnt: 
-- Working with SwiftData
-- Organising Navigation to give a seamless journey through the app
-- Sorting through a large amount of names with a weighted bias to ensure more common names are more likely to appear
-- Streamlining filtering of data to reduce clunky UI transitions in a card stack
-- Implementing analytics to understand why app was crashing when swiping too enthusiastically
-
-## 👦🏼 Babble Counter
-Sticking with the theme of children, my second app focuses on tracking young children's speech development (up to the age of 5 years).
+**Tech:** SwiftUI, Firebase Firestore, MVVM  
 
 ![App mockups](https://github.com/user-attachments/assets/19436a43-7401-45c2-915e-91010d584ba5)
+---
 
-With a decent amount of UI experience under my belt, designing the UI and Navigation structure of this app felt a little easier. I tried using a different technology with Firebase to store the user's children and word lists to compare its implementation to SwiftData that I used previously.
+## 🤖 Exploring AI
 
-Technologies used for this app included Firebase Firestore, SwiftUI, and a MVVM architecture.
-### 🙇🏼‍♀️ What I learnt:
-- Creating custom UI elements to replace default SwiftUI elements and implement these app-wide
-- Using Repositories to handle communication between view models and Firestore database
-- How to use a path-based navigation structure
-- Using AppStorage to maintain app and user states
+### 🧪 Blood Results Explainer  
+My first project working with a large language model.
 
-# 🌱 My learning journey
-I have used resources from a variety of online sources to help with my iOS development journey. I started with learning the basics from tutorials and community sources like StackOverflow, CodingWithChris CWC+ and Hacking With Swift+. 
-Creating apps has helped me to learn and understand about the full app development process: creating ideas, designing, wire framing, hiring a designer, development, signing up for the Apple Developer Program and submitting apps for review and approval. Also monitoring for crashes and analytics and making continued improvements and fixes.
-I'm keen to understand and explore other technologies to help me develop more refined apps. I am now attending meetups and conferences to network and meet other developers for mentoring, collaborations and to develop my skills further.
+- Built a Python app to generate plain-language explanations of blood test results  
+- Used structured clinical data to make outputs more consistent  
+- Experimented with prompts and saw how small changes affect results  
 
-# ⚡ Random fact
-In 2020, during lockdown, I started a micro vegan baking business to 'give me something to do' after having my first baby. I learnt a lot about multitasking that year and that's why my company is called 'Buns & Zeros'.
+---
+
+### 💪🏼 The Surgeon Athlete (in progress)  
+An iOS app I’m building alongside an NHS-led research project.
+
+- Working in a real-world setting with evolving requirements  
+- Using AI-assisted tools (Claude Code CLI) as part of development  
+
+---
+
+## 🌱 Overall
+
+This has been one continuous learning process rather than separate projects.
+
+I’ve gone from having no programming experience to building and releasing apps, working with cloud data, and starting to explore AI tools in practice.
+
+There’s still a lot I don’t know, but I’m comfortable getting stuck in and figuring things out.
+
+---
+
+## ⚡ Random fact
+
+In 2020, during lockdown, I started a micro vegan baking business after having my first baby.
+
+That’s where my company name **Buns & Zeros** comes from 🧁
 
 <!--
 **EmilyBlackford/emilyblackford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
