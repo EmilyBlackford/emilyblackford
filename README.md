@@ -1,8 +1,8 @@
 # Hi, I'm Emily 👋🏻
 
-In early 2024, I left a 10-year career in the NHS to try something completely different—learning how to build iOS apps from scratch.
+In early 2024, I left a 10-year career in the NHS to try something completely different and I started exploring software engineering.
 
-I’m a self-taught iOS developer, and I’ve been learning by building real projects from start to finish—figuring things out as I go.
+I’m a self-taught iOS developer, and I’ve been learning by building real projects from start to finish, figuring things out as I go.
 
 📫 Feel free to reach out on LinkedIn:  
 https://linkedin.com/in/emily-blackford-ios  
